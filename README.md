@@ -1,2 +1,1 @@
-Moi 
-DC: Irttari#4444
+Irttari#4444
